@@ -1,3 +1,9 @@
+#intro {
+    background: aqua ;
+}
+section {
+    background: yellowgreen;
+}
 body {
-    background-color: aqua ;
+    background: green;
 }
